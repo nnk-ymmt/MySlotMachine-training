@@ -1,0 +1,2 @@
+# MySlotMachine-training
+ドットインストール　MySlotMachine
